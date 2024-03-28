@@ -3,7 +3,7 @@
 ### 🚀👨🏻‍💻 Perfil
 Mi nombre es Jorge Jara y soy un Ingeniero Informático con experiencia en el desarrollo de aplicaciones móviles con React Native y Expo. Poseo conocimientos básicos en distintos frameworks y herramientas
 que aprendí a lo largo de mi carrera como alumno en la Universidad del Bío-Bío. Actualmente, como profesional, me encuentro aprendiendo nuevas tecnologías orientadas al desarrollo de páginas web,
-más especificamente React, para ampliar mis conocimientos y entregar mejores soluciones a problemas que el mundo modernos presenta.
+más especificamente React, para ampliar mis conocimientos y entregar mejores soluciones a problemas que el mundo moderno presenta.
 
 #### 📋 Lenguajes
 >![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
