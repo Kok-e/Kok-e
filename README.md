@@ -1,4 +1,4 @@
-## Hola, Soy Iván Parada 👋
+## 🌌Bienvenido a mi perfil🌌
 
 ### 🚀👨🏻‍💻 Perfil
 Mi nombre es Jorge Jara y soy un Ingeniero Informático con experiencia en el desarrollo de aplicaciones móviles con React Native y Expo. Poseo conocimientos básicos en distintos frameworks y herramientas
