@@ -1,8 +1,9 @@
 ## Hola, Soy Iván Parada 👋
 
 ### 🚀👨🏻‍💻 Perfil
-Desarrollador con experiencia en el desarrollo de aplicaciones móviles con React Native y Expo. Poseo conocimientos básicos en distintos frameworks y herramientas
-que 
+Desarrollador con experiencia en la creación aplicaciones móviles con React Native y Expo. Poseo conocimientos básicos en distintos frameworks y herramientas
+que he aprendido a lo largo de mi carrera como ingeniero en informática. Actualmente estoy aprendiendo nuevas tecnologías orientadas al desarrollo de páginas web
+
 #### 📋 Lenguajes
 >![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 >![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
