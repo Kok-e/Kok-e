@@ -30,8 +30,5 @@ que
 #### 🕙 Version de controles
 >![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+![giphy](https://github.com/Kok-e/Kok-e/assets/118061358/2345c94f-0874-413b-93de-dfeba5f62725)
 
-### ⚡ Estadísticas de Github
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanParada&layout=compact)
-
-![image](https://github.com/Kok-e/Kok-e/assets/118061358/0236d2db-9881-4677-8454-2f1567d46c90)
